@@ -1,6 +1,6 @@
 # World_Pitch
 ## Author
-[PHILIPIA]https://github.com/philipiaeveline/-WORLD_PITCHES)
+[PHILIPIA](https://github.com/philipiaeveline/-WORLD_PITCHES)
 # Description
 A Pitchess motion is a request made by the defense in a California criminal case, such as a DUI case or a resisting arrest case, to access a law enforcement officer's personnel information when the defendant alleges in an affidavit that the officer used excessive force or lied about the events surrounding the ...
 ## Live Link
@@ -26,7 +26,7 @@ A Pitchess motion is a request made by the defense in a California criminal case
 To get the code..
 1. Cloning the repository:
   ```bash
-  https://github.com/Owiti-Charles/pitch-world.git
+https://github.com/philipiaeveline/-WORLD_PITCHES
   ```
 2. Move to the folder and install requirements
   ```bash
@@ -39,11 +39,11 @@ To get the code..
   ```
 4. Running the application
   ```bash
-  python3.6 manage.py server
+  python3.7 manage.py server
   ```
 5. Testing the application
   ```bash
-  python3.6 manage.py test
+  python3.7 manage.py test
   ```
 Open the application on your browser `127.0.0.1:5000`.
 ## Technology used
