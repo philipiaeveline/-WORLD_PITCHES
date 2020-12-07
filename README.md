@@ -4,12 +4,7 @@
 # Description
 A Pitchess motion is a request made by the defense in a California criminal case, such as a DUI case or a resisting arrest case, to access a law enforcement officer's personnel information when the defendant alleges in an affidavit that the officer used excessive force or lied about the events surrounding the ...
 ## Live Link
-[View Site](https://pitchworldcha.herokuapp.com)
-
-## Screenshot
-
-<img src="https://raw.githubusercontent.com/Owiti-Charles/pitch-world/master/app/static/photos/scrnshrt.png" width="900px" height="440px">
-<img src="https://raw.githubusercontent.com/Owiti-Charles/pitch-world/master/app/static/photos/scrnew.png" width="900px" height="440px">
+[View Site](https://worldpitch.herokuapp.com)
 
 ## User Story
 
